@@ -1,0 +1,40 @@
+{
+  "title": "Coinbits",
+  "subtitle": "Start saving with every",
+
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "empty": "Email is required",
+    "invalid": "Invalid email address",
+    "login": "Continue",
+    "forgot": "Forgot Passowrd?",
+    "reset": "Reset Now!",
+    "validating": "Validating"
+  },
+
+  "dashboard": {
+    "balance": "Balance",
+    "view-all": "View All",
+    "transactions": "Transactions",
+    "total": "Total",
+    "savings": "Savings",
+    "goal": "Goal",
+    "add": "Add",
+    "withdraw": "Withdraw",
+    "history": "History",
+    "settings": "Settings",
+    "signout": "Sign Out",
+    "help-center": "Help Center",
+    "shop": "Shop",
+    "learn-more": "Learn about Bitcoin",
+    "language": "Language",
+    "theme": "Theme",
+    "logout-msg": "Are you sure you want to logout?"
+  },
+
+  "lang": {
+    "en": "English",
+    "es": "Spanish"
+  }
+}

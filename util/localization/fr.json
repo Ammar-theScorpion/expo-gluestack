@@ -1,0 +1,39 @@
+{
+  "title": "Coinbits",
+  "subtitle": "Commencez à économiser à chaque",
+
+  "auth": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "empty": "L'e-mail est obligatoire",
+    "invalid": "Adresse e-mail invalide",
+    "login": "Connexion",
+    "forgot": "Mot de passe oublié?",
+    "reset": "Réinitialiser maintenant!"
+  },
+
+  "dashboard": {
+    "balance": "Solde",
+    "view-all": "Tout voir",
+    "transactions": "Transactions",
+    "total": "Total",
+    "savings": "Économies",
+    "goal": "Objectif",
+    "add": "Ajouter",
+    "withdraw": "Retirer",
+    "history": "Historique",
+    "settings": "Paramètres",
+    "signout": "Se déconnecter",
+    "help-center": "Centre d'aide",
+    "shop": "Boutique",
+    "learn-more": "En savoir plus sur le Bitcoin",
+    "language": "Langue",
+    "theme": "Thème",
+    "logout-msg": "Êtes-vous sûr de vouloir vous déconnecter?"
+  },
+
+  "lang": {
+    "en": "Anglais",
+    "es": "Espagnol"
+  }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="94.5377604%" y1="0%" x2="9.53450521%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#40d69f" offset="0%"></stop>
+            <stop stop-color="#40d69f" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Coinbits_pre_launch_desktop_verify" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="notification_mobile_02" transform="translate(-14.000000, -614.000000)">
+            <g id="Group-18" transform="translate(14.000000, 614.000000)">
+                <rect id="Rectangle-20" fill="url(#linearGradient-1)" x="0" y="0" width="41" height="41" rx="4"></rect>
+                <path d="M21.4537815,15.9323017 C24.2521008,15.9323017 25.5,17.696325 25.9159664,19.2765957 L29.8487395,17.8800774 C29.092437,15.0135397 26.3697479,12 21.4159664,12 C16.1218487,12 12,15.9690522 12,21.4816248 C12,26.9206963 16.1218487,31 21.5294118,31 C26.3697479,31 29.1302521,27.9497099 30,25.1566731 L26.1428571,23.7969052 C25.7268908,25.1566731 24.4033613,27.1044487 21.5294118,27.1044487 C18.7689076,27.1044487 16.3865546,25.0831721 16.3865546,21.4816248 C16.3865546,17.8800774 18.7689076,15.9323017 21.4537815,15.9323017 Z" id="c" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
