@@ -2,7 +2,6 @@
   "compilerOptions": {
     "paths": {
       "@/*": ["./*"],
-      "@coinbits/auth": ["../../packages/auth/src"],
       "tailwind.config": ["./tailwind.config.js"]
     }
   },
